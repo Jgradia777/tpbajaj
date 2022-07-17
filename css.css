@@ -1,0 +1,35 @@
+
+
+.carousel{height: 60px; width: 100;}
+
+.d-block {height: ;}
+
+.cardrs{display: flex;
+        justify-content: space-between;
+        background: rgb(2,0,36);
+  background: linear-gradient(0deg, rgba(2,0,36,1) 5%, rgba(243,243,247,1) 82%);}
+
+h1 {text-align: center;}
+
+.bajaj_India {border-radius: 0px 20px 20px 0px;
+background-color: #8a9597;
+box-shadow: 6px 10px 50px black;
+font-size: 2rem;}
+
+
+.historia {background-color:#8a9597;
+  text-decoration: ;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 2rem;
+}
+h4 {text-decoration: underline;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 3rem;
+text-align: center;}
+
+h5 {text-decoration: underline;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 2rem;}
